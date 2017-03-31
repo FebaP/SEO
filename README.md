@@ -1,7 +1,6 @@
 # SEO
 <html>
 <body>
-<backgroundimage>https://wallpaperbrowse.com/media/images/background76_RxElvJb.jpg</backgroundimage>
 <h1>Suggestion</h1>
 <table>
 <b><i>JMC</i></b>
