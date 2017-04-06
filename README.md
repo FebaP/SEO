@@ -1,6 +1,7 @@
 # SEO
 <html>
 <body>
+<th><b>TITLE</b></th>
 <h1>Suggestion</h1>
 <table>
 <b><i>JMC</i></b>
