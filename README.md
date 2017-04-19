@@ -37,7 +37,6 @@ background-image: url("http://2.bp.blogspot.com/-bCcJ6K3vBVU/USbIds1JIgI/AAAAAAA
 But here ,
 <b>Google Does not accept meta keywords any more.</b></td>
 </tr>
-
 <tr>
 <td>Google Search Results Preview</td>
 <td>-Info- </td>
@@ -66,7 +65,6 @@ But here ,
 ⟩⟩ Campus</td>
 <td>The h2 tag is a subheading and should contain similar keywords to h1 tag. </td>
 </tr>
-
 <tr>
 <td>Robots.txt</td>
 <td> Found</td>
@@ -74,7 +72,6 @@ But here ,
 <td> <a href=" http://jmc.ac.in/robots.txt"> <b> ROBOT.TXT </b></a> <br>
 using a Robots.txt, we can tell a spider or a Robot that you do not want some of your pages indexed,or that you do not want your links followed.</td>
 </tr>
-
 <tr>
 <td> Site Map </td>
 <td> 1 sitemap found </td>
@@ -159,7 +156,6 @@ using a Robots.txt, we can tell a spider or a Robot that you do not want some of
     <tr><td>1.0sec</td><td>76/100</td><td>97/100</td>
     </tr>
 </table>
-<a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker"/></a>
-
-</body>
-</html>
+<a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-Gold-xs.png" alt="seo checker"/></a>
+<body/>
+<html/>
