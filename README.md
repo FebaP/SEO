@@ -156,6 +156,6 @@ using a Robots.txt, we can tell a spider or a Robot that you do not want some of
     <tr><td>1.0sec</td><td>76/100</td><td>97/100</td>
     </tr>
 </table>
-<a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-Gold-xs.png" alt="seo checker"/></a>
+<a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker"/></a>
 <body/>
 <html/>
