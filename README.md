@@ -5,6 +5,10 @@ body{
 background-image: url("http://2.bp.blogspot.com/-bCcJ6K3vBVU/USbIds1JIgI/AAAAAAAAANE/6vQG255z6B8/s1600/colorful+2.jpg")}
 </style>
 <body>
+<div align="center">
+  <b><u><h1 style="color:blue;">JESUS AND MARY COLLEGE</h1></u></b>
+</div>
+<i><h2 style="color:blue;">SEO</h2></i>
 <table>
 <tr>
 <th><b>TAG</b></th>
@@ -122,15 +126,16 @@ using a Robots.txt, we can tell a spider or a Robot that you do not want some of
 <td>	Page rank is 4/10.</td>
 <td>More backlinks need to be used to increase PR.</td>
 </tr>
+<tr>
+<td>Page size</td><td >Very Light</td><td >Page size is 43.14KB</td><td>The heavier the site page, the slower the load. For optimal performance, try to keep page size below 3MB.</td>
+ </tr>
+
 </table>
 <p>
 <table>
 <tr>
 <td><b>ADMIN NAME:</b> <i>Marina John r.j.m</i></td>
 </tr>
-<tr>
-        <td>Page size</td><td >Very Light</td><td >Page size is 43.14KB</td><td>The heavier the site page, the slower the load. For optimal performance, try to keep page size below 3MB.</td>
-        </tr>
 </table>
 <p>
 <table>
